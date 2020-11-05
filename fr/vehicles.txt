@@ -42,7 +42,7 @@ repair█Remettre à neuf
 turnExpendable█Dernier vol
 skip█Passer
 
-turnExpendableTooltip█This rocket will not land after its mission. You will be able to take more payloads in the last flight.
+turnExpendableTooltip█Cette fusée n'atterrira pas après sa mission. Vous pourrez néanmois transporter plus de charges utiles pour ce dernier vol.
 
 detailedCosts█Coûts détaillés
 leftFairing█Coiffe gauche
