@@ -27,7 +27,7 @@ buildingSetup_queue█Queue
 buildingSetup_produce█Produire
 
 returnToEarth█Retourner sur Terre
-returnToEarthShort█Retourner
+returnToEarthShort█Revenir
 
 buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
 
