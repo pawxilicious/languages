@@ -19,7 +19,7 @@ droneships█Barges de récupération
 vehicles_newVehicleHeader█Créer un nouveau véhicule
 vehicles_newVehicleButton█Nouveau véhicule
 
-nicknameInput█Entrer le nom...
+nicknameInput█Entrer le nom de la fusée...
 
 vehicles_projects█Projets
 vehicles_view█Voir
