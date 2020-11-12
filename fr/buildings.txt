@@ -29,7 +29,7 @@ buildingSetup_produce█Produire
 returnToEarth█Retourner sur Terre
 returnToEarthShort█Revenir
 
-buildingGuide█Press <b>ESC</b> to cancel&%Press <b>Q</b> or <b>E</b> to rotate&%Hold <b>SHIFT</b> to place more
+buildingGuide█Appuyez sur <b>ESC</b> pour annuler&%Appuyez sur <b>Q</b> ou <b>E</b> pour tourner&%Maintenez <b>SHIFT</b> pour placer plusieurs exemplaires
 
 buildingSetup_negotiationPowerEachEmployee█Pouvoir de négociation de chaque employé
 buildingSetup_negotiationPowerBuilding█Pouvoir de négociation de construction
@@ -41,7 +41,7 @@ buildingSetup_vehicleStored█Véhicules stockés
 noGigaFound█[Aucune Giga usine trouvée.]
 unitsToBuild█Unité(s) en construction...
 
-buildingSetup_employees█<size=14>{0} employés</size>&%{1} <color=#16A085>$</color> / year&%<size=14>{2} <color=#16A085>$</color> / chaque
+buildingSetup_employees█<size=14>{0} employés</size>&%{1} <color=#16A085>$</color> / an&%<size=14>{2} <color=#16A085>$</color> / chaque
 buildingSetup_manageEmployees█Gérer les employés
 
 buildingSetup_destroyBuilding█Détruire le bâtiment
