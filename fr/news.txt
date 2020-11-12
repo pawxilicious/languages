@@ -63,7 +63,7 @@ news_fail_header2█Une fusée s'est transformée en une énorme boule de feu. {
 news_fail_header3█{0} est en difficulté. L'explosion de leur fusée a réveillé les habitants de la ville voisine.
 news_fail_header4█Cette fusée n'existe plus. La fusée appartenant à {0} a brûlé dans l'atmosphère.
 news_fail_header5█{1}: "Nous pensions que cette fois, ça marcherait. Une fusée en feu n'est pas ce que nous voulions voir aujourd'hui.
-news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header6█"On va faire parler de nous!" Les mots du PDG de {0} se sont avérés justes. Leurs fusées explosent à fond.
 news_fail_header7█{1} terrorise le ciel ! Les explosions successives de fusées menacent le flux financier des {0}.
 news_fail_header8█{0}: La puissante explosion de notre fusée menace la position de la compagnie. {1} en déroute ?
 
