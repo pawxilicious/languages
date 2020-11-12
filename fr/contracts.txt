@@ -72,7 +72,7 @@ content_marsCamera█Lancez votre caméra de Mars avec votre Heavy Rocket vers l
 
 contract_spate█SPATE: Prologue EP
 payload_spate█Prologue EP
-content_spate█Un jeune producteur de musique venant de Filande sort un nouvel album avec des chansons sur l'espace. Faisant parti de sa campagne de marketing, il voudrait envoyé à la Station Spaciale Internationale une copie physique de son album grâce au prochain transport de ravitaillement vers la SSI.
+content_spate█Un jeune producteur de musique venant de Finlande sort un nouvel album avec des chansons sur l'espace. Faisant parti de sa campagne de marketing, il voudrait envoyé à la Station Spaciale Internationale une copie physique de son album grâce au prochain transport de ravitaillement vers la SSI.
 
 contract_matt█Sauver Matt
 payload_matt█Mission de sauvetage de Matt
