@@ -68,12 +68,12 @@ cybercars█Cybercars
 nuke█Bombe nucléaire
 
 unitsToProduce█Unité à produire: {0}
-notYetUnlocked█Not unlocked yet!
+notYetUnlocked█Pas encore débloqué!
 
 marsProductionHeader█<b>Production</b> <size=50%>/trimestre</size>
 marsUsageHeader█<b>Usage</b> <size=50%>/trimestre</size>
 marsStorageHeader█<b>Stockage</b>
-marsTerraforming█Mars Terraforming ({0}%)
+marsTerraforming█Terraformation de Mars ({0}%)
 
 actionCamera█Caméra d'activité
 switchView█Changer de vue
